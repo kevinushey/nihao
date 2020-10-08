@@ -1,11 +1,10 @@
 Package: nihao
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.0.1
+Title: Example package containing UTF-8 Chinese characters
+Version: 0.1.0
 Author: Kevin Ushey
 Maintainer: Kevin Ushey <kevinushey@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: For testing Help page rendering.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
